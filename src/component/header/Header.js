@@ -17,7 +17,7 @@ class Header extends Component {
           <button onClick={() =>{
             onClick(input.value);
             input.value = "";
-          }}>Add</button>
+          }}>Add(+)</button>
       </div>
     );
   }
