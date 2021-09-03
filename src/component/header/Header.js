@@ -18,6 +18,7 @@ class Header extends Component {
             onClick(input.value);
             input.value = "";
           }}>Add(+)</button>
+          (click button) /* feat/DEV-1 */
       </div>
     );
   }
